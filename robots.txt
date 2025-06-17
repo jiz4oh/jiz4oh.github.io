@@ -1,0 +1,17 @@
+#hexo robots.txt
+User-agent: *
+
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+
+Sitemap: https://jiz4oh.com/search.xml
+Sitemap: https://jiz4oh.com/sitemap.xml
+Sitemap: https://jiz4oh.com/baidusitemap.xml
